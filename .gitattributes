@@ -1,6 +1,8 @@
-*           text=auto
-*.md		text eol=lf
-*.jpg		-text
-*.png		-text
-*.gif		-text
-*.svg		-text
+*.md  linguist-detectable=true  
+*.geojson  linguist-detectable=true  
+*.svg  linguist-detectable=true  
+*.excalidraw  linguist-detectable=true  
+*.jpg  linguist-detectable=true  
+*.jpeg  linguist-detectable=true  
+*.excalidraw linguist-language=JSON  
+*.geojson linguist-language=JSON  
